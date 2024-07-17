@@ -19,3 +19,8 @@ The VPC module is designed to be used with the EKS module, but can be used indep
 terraform init
 terraform apply
 ```
+## Links
+
+- [EKS Module](https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest)
+- [VPC Module](https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest)
+
