@@ -7,7 +7,7 @@ AWS EKS & VPC sane defaults, yet production ready 🧘🏼‍♂️
 
 ## EKS Module
 
-The EKS module is designed to be used with the VPC module, but can be used independently as well.
+The EKS module is designed to be used with the VPC module.
 
 ## VPC Module
 
