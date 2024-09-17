@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: aws-cli
+  labels:
+    app: aws-cli
+spec:
+  serviceAccountName: general-sa
+  containers:
+  - name: aws-cli
+    image: amazon/aws-cli
+    command:
+    - sleep
+    args:
+    - infinity
